@@ -1,0 +1,5 @@
+* IMPORTANT: Restructure the project. Split functional in smaller functinos, for beginning
+
+* Implement full console support: set the parameters, e.g. line length, with options (text -l 80 input.txt)
+* Compute output file name based on input if not provided by option flag, e.g. -f / -o
+* About console support: add handling of STDIN and STDOUT to work not only with file but also with data flow from terminal
